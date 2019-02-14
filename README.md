@@ -2,6 +2,17 @@
 
 本脚本修改于 teddysun 的一键脚本： https://shadowsocks.be/9.html
 
+## 内容更新
+
+14 Feb, 2019
+
+> 情人节快乐
+
+在[ToyoDAdoubi](https://github.com/ToyoDAdoubi/doubi)中找到了新的脚本。Sherlockwoo的脚本有部分失效了。
+有机会我这边全部backup一份。
+
+
+
 
 ## 系统要求 ##
 
