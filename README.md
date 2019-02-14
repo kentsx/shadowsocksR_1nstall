@@ -42,7 +42,7 @@ CentOS根据大家的要求，加入了CentOS 6和7的支持，CentOS 7 自带�
 
 ## 安装步骤 ##
 
-    wget -N --no-check-certificate https://github.com/Sherlockwoo/shadowsocksR_1nstall/raw/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
+    wget -N --no-check-certificate https://github.com/kentsx/shadowsocksR_1nstall/raw/master/ssr.sh && chmod +x ssr.sh && bash ssr.sh
 
 ## 使用说明 ##
 
